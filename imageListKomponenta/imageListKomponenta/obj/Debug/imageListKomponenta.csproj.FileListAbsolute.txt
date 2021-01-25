@@ -1,0 +1,10 @@
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\bin\Debug\imageListKomponenta.exe.config
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\bin\Debug\imageListKomponenta.exe
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\bin\Debug\imageListKomponenta.pdb
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.csprojAssemblyReference.cache
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.Form1.resources
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.Properties.Resources.resources
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.csproj.GenerateResource.cache
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.exe
+C:\Users\denim\source\repos\imageListKomponenta\imageListKomponenta\obj\Debug\imageListKomponenta.pdb
